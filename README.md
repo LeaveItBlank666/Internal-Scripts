@@ -43,6 +43,7 @@ Example Output (SMB)
  ### FTP Connection Tester
 
 This script attempts to connect to FTP servers specified in a file, logs in with the provided credentials, and lists the contents of the FTP share.
+
 Command:
 
       ./ftp_connection_tester.sh targets.txt
@@ -50,6 +51,7 @@ Command:
 ### IMAP Connection Tester
 
 This script attempts to connect to IMAP servers specified in a file using Telnet, sends LOGIN, CAPABILITY, and LIST commands, and displays the server response.
+
 Command:
 
       ./imap_connection_tester.sh targets.txt
