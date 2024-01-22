@@ -40,21 +40,21 @@ Example Output (SMB)
 
     Inspired by the need for quick network protocol testing.
 
- FTP Connection Tester
+ ### FTP Connection Tester
 
 This script attempts to connect to FTP servers specified in a file, logs in with the provided credentials, and lists the contents of the FTP share.
 Command:
 
       ./ftp_connection_tester.sh targets.txt
 
-IMAP Connection Tester
+### IMAP Connection Tester
 
 This script attempts to connect to IMAP servers specified in a file using Telnet, sends LOGIN, CAPABILITY, and LIST commands, and displays the server response.
 Command:
 
       ./imap_connection_tester.sh targets.txt
 
-POP3 Connection Tester
+### POP3 Connection Tester
 
 This script attempts to connect to POP3 servers specified in a file using Telnet, sends USER, PASS, CAPA, and LIST commands, and displays the server response.
 
@@ -62,7 +62,7 @@ Command:
 
       ./pop3_connection_tester.sh targets.txt
 
-SMB Connection Tester
+### SMB Connection Tester
 
 This script attempts to connect to SMB servers specified in a file using smbclient, lists available shares, and displays the server response.
 
@@ -70,7 +70,7 @@ Command:
 
       ./smb_connection_tester.sh targets.txt
 
-SMTP Connection Tester
+### SMTP Connection Tester
 
 This script attempts to connect to SMTP servers specified in a file using Telnet, sends a HELO command, and displays the server response.
 
