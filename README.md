@@ -82,7 +82,7 @@ This script attempts to connect to SMTP servers specified in a file using Telnet
 
 ## Disclaimer
 
-      The scripts provided in this repository are distributed in the hope that they will be useful, but they are provided "as-is" and without any warranty of any kind, express, implied, or otherwise. The authors and contributors are not responsible for any damages or consequences resulting from the use        of these scripts. Users are solely responsible for their use and should exercise caution when interacting with networked systems. Use these scripts at your own risk.
+      The scripts provided in this repository are distributed in the hope that they will be useful, but they are provided "as-is" and without any warranty of any kind, express, implied, or otherwise. The authors and contributors are not responsible for any damages or consequences resulting from the use of these scripts. Users are solely responsible for their use and should exercise caution when interacting with networked systems. Use these scripts at your own risk.
 
       Always ensure that you have the necessary permissions and authorization to perform tests on target servers. It is your responsibility to comply with applicable laws and regulations.
 
